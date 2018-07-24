@@ -1,0 +1,32 @@
+ul {
+  list-style-type: none;
+}
+
+li {
+  display: inline-block;
+}
+
+.tab {
+  background-color: lightgrey;
+  padding: 10px;
+}
+
+.active {
+  background-color: lightblue;
+}
+
+.container {
+  width: 500px;
+  height: 300px;
+}
+
+.content {
+  display: none;
+  background-color: lightblue;
+  padding: 20px;
+  margin: 10px 0px;
+}
+
+.show {
+  display: block;
+}
